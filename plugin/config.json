@@ -1,0 +1,9 @@
+{
+  "redis_url": "redis://default:yOncvgHnxBrvhsOdHbXHzMAyRezLOhQd@redis.railway.internal:6379",
+  "target_program_ids": [
+    "BPFLoaderUpgradeab1e11111111111111111111111",
+    "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "MetaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s",
+    "So11111111111111111111111111111111111111111"
+  ]
+}
